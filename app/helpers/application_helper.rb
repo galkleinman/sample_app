@@ -7,4 +7,8 @@ module ApplicationHelper
 			"#{base_title} | #{page_title}"
 		end
 	end
+
+	# def signed_in?
+	# 	puts "bla"
+	# end
 end
